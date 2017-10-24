@@ -1,3 +1,5 @@
+// my new module v1.0 24-10-2017
+//===============================
 
 const methods = module.exports = {};
 

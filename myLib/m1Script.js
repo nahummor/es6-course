@@ -12,7 +12,7 @@ methods.add = function (x, y) {
 }
 
 methods.getRandomNumber = () => {
-    return Math.round(Math.random() * 10)
+    return Math.round(Math.random() * 100)
 }
 
 methods.showMessage = () => {
